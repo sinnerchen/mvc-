@@ -1,0 +1,11 @@
+E:\DevCache\Demo\IronMan.Demo.Data.SqlClient\bin\Debug\IronMan.Demo.Data.SqlClient.dll
+E:\DevCache\Demo\IronMan.Demo.Data.SqlClient\bin\Debug\IronMan.Demo.Data.SqlClient.pdb
+E:\DevCache\Demo\IronMan.Demo.Data.SqlClient\bin\Debug\IronMan.Demo.Data.dll
+E:\DevCache\Demo\IronMan.Demo.Data.SqlClient\bin\Debug\IronMan.Demo.Entities.dll
+E:\DevCache\Demo\IronMan.Demo.Data.SqlClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DevCache\Demo\IronMan.Demo.Data.SqlClient\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DevCache\Demo\IronMan.Demo.Data.SqlClient\bin\Debug\IronMan.Demo.Data.pdb
+E:\DevCache\Demo\IronMan.Demo.Data.SqlClient\bin\Debug\IronMan.Demo.Entities.pdb
+E:\DevCache\Demo\IronMan.Demo.Data.SqlClient\obj\Debug\IronMan.Demo.Data.SqlClient.csprojResolveAssemblyReference.cache
+E:\DevCache\Demo\IronMan.Demo.Data.SqlClient\obj\Debug\IronMan.Demo.Data.SqlClient.dll
+E:\DevCache\Demo\IronMan.Demo.Data.SqlClient\obj\Debug\IronMan.Demo.Data.SqlClient.pdb

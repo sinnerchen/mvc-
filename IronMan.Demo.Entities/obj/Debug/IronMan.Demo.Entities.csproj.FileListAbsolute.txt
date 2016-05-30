@@ -1,0 +1,5 @@
+E:\DevCache\Demo\IronMan.Demo.Entities\bin\Debug\IronMan.Demo.Entities.dll
+E:\DevCache\Demo\IronMan.Demo.Entities\bin\Debug\IronMan.Demo.Entities.pdb
+E:\DevCache\Demo\IronMan.Demo.Entities\obj\Debug\IronMan.Demo.Entities.csprojResolveAssemblyReference.cache
+E:\DevCache\Demo\IronMan.Demo.Entities\obj\Debug\IronMan.Demo.Entities.dll
+E:\DevCache\Demo\IronMan.Demo.Entities\obj\Debug\IronMan.Demo.Entities.pdb

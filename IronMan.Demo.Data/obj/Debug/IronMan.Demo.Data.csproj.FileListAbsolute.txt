@@ -1,0 +1,9 @@
+E:\DevCache\Demo\IronMan.Demo.Data\bin\Debug\IronMan.Demo.Data.dll
+E:\DevCache\Demo\IronMan.Demo.Data\bin\Debug\IronMan.Demo.Data.pdb
+E:\DevCache\Demo\IronMan.Demo.Data\bin\Debug\IronMan.Demo.Entities.dll
+E:\DevCache\Demo\IronMan.Demo.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\DevCache\Demo\IronMan.Demo.Data\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\DevCache\Demo\IronMan.Demo.Data\bin\Debug\IronMan.Demo.Entities.pdb
+E:\DevCache\Demo\IronMan.Demo.Data\obj\Debug\IronMan.Demo.Data.csprojResolveAssemblyReference.cache
+E:\DevCache\Demo\IronMan.Demo.Data\obj\Debug\IronMan.Demo.Data.dll
+E:\DevCache\Demo\IronMan.Demo.Data\obj\Debug\IronMan.Demo.Data.pdb
